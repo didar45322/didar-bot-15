@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
-    ""
+    "100000934675181",
+    "100000934675181"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your_Bot_Name",
+  "nickNameBot": "হেরে গেছি মেয়ে পটানোর যুদ্ধে ✅",
   "prefix": "/",
   "database": {
     "type": "sqlite",
